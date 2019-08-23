@@ -20,7 +20,7 @@
 }
 
 #five {
-    background-color: yellow;
+    background-color: black;
 }
 
 #six {
@@ -28,7 +28,7 @@
 }
 
 #seven {
-    background-color: red;
+    background-color: black;
 }
 
 #eight {
@@ -60,7 +60,27 @@
 }
 
 #fifteen {
+    background-color: red;
+}
+
+#sixteen {
     background-color: yellow;
+}
+
+#seventeen {
+    background-color: white;
+}
+
+#eighteen {
+    background-color: black;
+}
+
+#nineteen {
+    background-color: yellow;
+}
+
+#twenty {
+    background-color: black;
 }
 
 ul {
@@ -95,4 +115,16 @@ li:nth-child(10) {
 
 li:nth-child(11) {
     grid-column: span 2;
+}
+
+li:nth-child(13) {
+    grid-column: span 2;
+}
+
+li:nth-child(16) {
+    grid-column: span 3;
+}
+
+li:nth-child(18) {
+    grid-column: span 4;
 }
