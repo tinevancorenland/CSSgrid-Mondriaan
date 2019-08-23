@@ -5,5 +5,5 @@ Find the result [here](https://tinevancorenland.github.io/CSSgrid-Mondriaan/).
 
 This piece of art is
 > "an online responsive replication of Mondriaan's art, with some artistical freedom 
-> and some daring breaks within the otherwise stiff environment." 
+> and some daring breaks within the otherwise stiff environment." - Nic Placlé
 
